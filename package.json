@@ -2,6 +2,16 @@
 	"name": "domain-toggle",
 	"version": "1.0.0",
 	"type": "module",
+	"license": "MIT",
+	"private": true,
+	"author": {
+		"name": "Salamander",
+		"email": "juan.sanchez@stallionstudios.net"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/StallionStudios/domain-toggle.git"
+	},
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",

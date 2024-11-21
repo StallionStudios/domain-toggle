@@ -20,7 +20,7 @@ This extension is not published on the Chrome Web Store (because, again, it's ju
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/server-toggle-extension.git
+git clone https://github.com/StallionStudios/domain-toggle.git
 cd server-toggle-extension
 ```
 
