@@ -21,7 +21,7 @@ This extension is not published on the Chrome Web Store (because, again, it's ju
 
 ```bash
 git clone https://github.com/StallionStudios/domain-toggle.git
-cd server-toggle-extension
+cd domain-toggle
 ```
 
 2. Run the build script to generate the dist folder:
